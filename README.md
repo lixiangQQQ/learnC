@@ -1,0 +1,2 @@
+# learnC-
+Some exercises
